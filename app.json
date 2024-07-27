@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "1084ed97-4f09-4b0b-b28c-877cd020f5a3"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.rajscapedevelopment.clinitime"
+    }
+  }
+}
